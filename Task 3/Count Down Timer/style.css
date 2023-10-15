@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Dela+Gothic+One&family=Roboto&family=Roboto+Slab&display=swap');
+
+/* *{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+} */
+
+body{
+    text-align: center;
+    background-color: #131313;
+    font-family: 'Roboto Slab', serif;
+}
+
+h1{
+    color: #f5f5f5;
+    font-size: 40px;
+}
+
+table{
+    margin: auto;
+}
+
+th{
+    color: white;
+}
+
+input{
+    font-size: 20px;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+button{
+    min-width: 129px;
+    margin: 20px 10px;
+    padding: 10px;
+    font-size: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    font-weight: 600;
+}
+
+.countdown{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.heading{
+    color: #f5f5f5;
+    font-size:18px;
+    text-transform: uppercase;
+}
+
+.time{
+    background-color: #090909;
+    color: wheat;
+    font-size: 100px;
+    min-width: 150px;
+    margin:0 10px;
+}
+
+
+
+
